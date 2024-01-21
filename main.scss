@@ -1,0 +1,73 @@
+@import './partials/variable';
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1{
+  font-size: 70px;
+  color:$h1;
+  padding: 0;
+  margin: 0;
+}
+
+h2{
+  font-size: 40px;
+   color:#363958;
+}
+#header{
+  height: 100vh;
+  color:black;
+  
+nav{
+  font-weight: bold;
+  
+}
+
+
+  .custom-ul{
+    text-align: center; 
+}
+
+.custom-li{
+  font-weight: 700;
+  padding: 0px 25px;
+}
+.custom-logo{
+  width: 30%;
+}
+
+.custom-highlight{
+  color:red;
+}
+
+.custom-btn{
+  background: blue;
+  padding: 10px;
+  border: none;
+  outline: none;
+  
+}
+
+.banner{
+  height: 400px;
+  width: 400px;
+}
+
+}
+
+
+#cover{
+  height: 100vh;
+}
+
+#products{
+  height: 100vh;
+
+  h1{
+    font-size: 40px;
+  }
+  
+}

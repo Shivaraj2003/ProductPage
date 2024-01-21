@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 70px;
+  color: #363958;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 40px;
+  color: #363958;
+}
+
+#header {
+  height: 100vh;
+  color: black;
+}
+#header nav {
+  font-weight: bold;
+}
+#header .custom-ul {
+  text-align: center;
+}
+#header .custom-li {
+  font-weight: 700;
+  padding: 0px 25px;
+}
+#header .custom-logo {
+  width: 30%;
+}
+#header .custom-highlight {
+  color: red;
+}
+#header .custom-btn {
+  background: blue;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+#header .banner {
+  height: 400px;
+  width: 400px;
+}
+
+#cover {
+  height: 100vh;
+}
+
+#products {
+  height: 100vh;
+}
+#products h1 {
+  font-size: 40px;
+}/*# sourceMappingURL=main.css.map */
